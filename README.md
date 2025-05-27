@@ -1,2 +1,2 @@
 # Calculadora
-Laboratorio de E IV
+Desarrollo del Laboratorio de Electronica IV Alumno: Yamil Tolaba
